@@ -15,3 +15,20 @@
 
 ## Test-Self Repo (Self)
 ### Unit Testing Basic Operations
+<<<<<<< HEAD
+=======
+
+## Getting Started...
+Npm init @vitejs/app
+Vanilla
+Name Project
+Npm install
+Npm install jest
+Npm install @types/jest
+Create jsconfig (.json) file
+Include jest in type aqusitions
+Open package json file
+Create a test script that runs jest --watchAll --verbose
+Start Unit Testing
+ 
+>>>>>>> f4703ae5293c13874c1e9e1c539b897aaf379ca7
